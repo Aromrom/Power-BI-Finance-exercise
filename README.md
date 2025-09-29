@@ -38,8 +38,8 @@ This Power BI dashboard provides an **executive-level summary** of profit and sa
 ## 📥 Resources
 
 
-- 📊 **Link to file**(https://b2wcompletetraining057-my.sharepoint.com/:u:/g/personal/arommendez_bootcamp_justit_co_uk/EXK2RtT0XMhBkyP7e8i0CqcB179elrxUMuWxbxnR6dcP9w?e=A7Nk3r/)
-- 🔗 **Power BI (.pbix) File Download**(https://raw.githubusercontent.com/Aromrom/Power-BI-Finance-exercise/refs/heads/main/Finance%20Report%20Exercise%20-%20Arom.pbix/)
+- 📊 [**Link to file**](https://b2wcompletetraining057-my.sharepoint.com/:u:/g/personal/arommendez_bootcamp_justit_co_uk/EXK2RtT0XMhBkyP7e8i0CqcB179elrxUMuWxbxnR6dcP9w?e=A7Nk3r/)
+- 🔗 [**Power BI (.pbix) File Download**](https://raw.githubusercontent.com/Aromrom/Power-BI-Finance-exercise/refs/heads/main/Finance%20Report%20Exercise%20-%20Arom.pbix/)
 
 ---
 
